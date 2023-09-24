@@ -28,6 +28,8 @@ A quick-and-dirty benchmarking library with immediate feedback.
 
 Low- and high-level bindings to the C `termbox` library for writing TUIs.
 
+---
+
 ### [text-ansi](https://github.com/awkward-squad/text-ansi)
 
 Lightweight combinators for styling strings with ANSI escape sequences.
