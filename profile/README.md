@@ -36,6 +36,12 @@ Lightweight combinators for styling strings with ANSI escape sequences.
 
 ---
 
+### [timer-wheel](https://github.com/awkward-squad/timer-wheel)
+
+An efficient data structure for registering IO actions to fire after a delay.
+
+---
+
 ### In-progress work
 
 | | |
