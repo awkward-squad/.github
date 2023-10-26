@@ -58,5 +58,6 @@ An efficient data structure for registering IO actions to fire after a delay.
 | [libzmq](https://github.com/awkward-squad/libzmq) | Complete bindings to ZMQ |
 | [postgresql-protocol](https://github.com/awkward-squad/postgresql-protocol) | An implementation of the PostgreSQL wire protocol |
 | [proem](https://github.com/awkward-squad/proem) | A modern prelude |
+| [queues](https://github.com/awkward-squad/queues) | Queues and dequeues |
 | [spaceballs](https://github.com/awkward-squad/spaceballs) | A simple HTTP server framework |
 | [sqlite-bindings](https://github.com/awkward-squad/sqlite-bindings) | Complete bindings to SQLite |
