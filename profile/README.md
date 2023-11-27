@@ -119,3 +119,4 @@ An efficient data structure for registering IO actions to fire after a delay.
 | [queues](https://github.com/awkward-squad/queues) | Queues and dequeues |
 | [spaceballs](https://github.com/awkward-squad/spaceballs) | A simple HTTP server framework |
 | [sqlite-bindings](https://github.com/awkward-squad/sqlite-bindings) | Complete bindings to SQLite |
+| [stm-fsifo](https://github.com/awkward-squad/stm-fsifo) | A concurrent queue that supports delete |
