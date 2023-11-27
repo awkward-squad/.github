@@ -18,6 +18,14 @@ A SQL quasi-quoter for the `hasql` ecosystem.
 
 ---
 
+## [int-supply](https://github.com/awkward-squad/int-supply)
+
+[![Hackage](https://img.shields.io/hackage/v/int-supply.svg?label=int-supply&logo=haskell)](https://hackage.haskell.org/package/int-supply) [![Stackage Nightly](https://stackage.org/package/int-supply/badge/nightly)](https://www.stackage.org/nightly/package/int-supply)
+
+A simple, efficient supply of integers using atomic fetch-and-add.
+
+---
+
 ## [ki](https://github.com/awkward-squad/ki)
 
 [![Hackage](https://img.shields.io/hackage/v/ki.svg?label=ki&logo=haskell)](https://hackage.haskell.org/package/ki) [![Stackage Nightly](https://stackage.org/package/ki/badge/nightly)](https://www.stackage.org/nightly/package/ki)
