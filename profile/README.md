@@ -52,13 +52,15 @@ Just Fisher-Yates shuffle on linked lists.
 
 ## [park-bench](https://github.com/awkward-squad/park-bench)
 
-[![Hackage](https://img.shields.io/hackage/v/queues.svg?label=queues&logo=haskell)](https://hackage.haskell.org/package/queues) [![Stackage Nightly](https://stackage.org/package/queues/badge/nightly)](https://www.stackage.org/nightly/package/queues)
+[![Hackage](https://img.shields.io/hackage/v/park-bench.svg?label=park-bench&logo=haskell)](https://hackage.haskell.org/package/park-bench) [![Stackage Nightly](https://stackage.org/package/park-bench/badge/nightly)](https://www.stackage.org/nightly/package/park-bench)
 
 A quick-and-dirty benchmarking library with immediate feedback.
 
 ---
 
 ## [queues](https://github.com/awkward-squad/queues)
+
+[![Hackage](https://img.shields.io/hackage/v/queues.svg?label=queues&logo=haskell)](https://hackage.haskell.org/package/queues) [![Stackage Nightly](https://stackage.org/package/queues/badge/nightly)](https://www.stackage.org/nightly/package/queues)
 
 Two simple Okasaki queues.
 
