@@ -122,6 +122,14 @@ An efficient data structure for registering IO actions to fire after a delay.
 
 ---
 
+## [unconditional-jump](https://github.com/awkward-squad/unconditional-jump)
+
+[![Hackage](https://img.shields.io/hackage/v/unconditional-jump.svg?label=unconditional-jump&logo=haskell)](https://hackage.haskell.org/package/unconditional-jump) [![Stackage Nightly](https://stackage.org/package/unconditional-jump/badge/nightly)](https://www.stackage.org/nightly/package/unconditional-jump)
+
+Unconditional jumps.
+
+---
+
 # In-progress work
 
 | | |
@@ -135,4 +143,3 @@ An efficient data structure for registering IO actions to fire after a delay.
 | [spaceballs](https://github.com/awkward-squad/spaceballs) | A simple HTTP server framework |
 | [sqlite-bindings](https://github.com/awkward-squad/sqlite-bindings) | Complete bindings to SQLite |
 | [stm-fsifo](https://github.com/awkward-squad/stm-fsifo) | A concurrent queue that supports delete |
-| [unconditional-jump](https://github.com/awkward-squad/unconditional-jump) | Unconditional jumps |
