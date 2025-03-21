@@ -100,7 +100,7 @@ Unconditional jumps.
 
 # In-progress work
 
-| | |
+| Name | Description |
 | --- | --- |
 | [`cretheus`](https://github.com/awkward-squad/cretheus) | A clean `aeson` wrapper that encourages explicit encoders and decoders |
 | [`demeter`](https://github.com/awkward-squad/demeter) | An efficient resource pool |
