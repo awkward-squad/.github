@@ -2,6 +2,12 @@
 
 ---
 
+## [`cretheus`](https://github.com/awkward-squad/cretheus) [![Hackage](https://img.shields.io/hackage/v/cretheus.svg?label=cretheus&logo=haskell)](https://hackage.haskell.org/package/cretheus) [![Stackage Nightly](https://stackage.org/package/cretheus/badge/nightly)](https://www.stackage.org/nightly/package/cretheus)
+
+A clean `aeson` wrapper that encourages explicit encoders and decoders.
+
+---
+
 ## [`hasql-interpolate`](https://github.com/awkward-squad/hasql-interpolate) [![Hackage](https://img.shields.io/hackage/v/hasql-interpolate.svg?label=hasql-interpolate&logo=haskell)](https://hackage.haskell.org/package/hasql-interpolate) [![Stackage Nightly](https://stackage.org/package/hasql-interpolate/badge/nightly)](https://www.stackage.org/nightly/package/hasql-interpolate)
 
 A SQL quasi-quoter for the `hasql` ecosystem.
@@ -102,7 +108,6 @@ Unconditional jumps.
 
 | Name | Description |
 | --- | --- |
-| [`cretheus`](https://github.com/awkward-squad/cretheus) | A clean `aeson` wrapper that encourages explicit encoders and decoders |
 | [`demeter`](https://github.com/awkward-squad/demeter) | An efficient resource pool |
 | [`ersatz-pointer`](https://github.com/awkward-squad/ersatz-pointer) | Another take on the weak pointer API |
 | [`inotify`](https://github.com/awkward-squad/inotify) | inotify bindings |
